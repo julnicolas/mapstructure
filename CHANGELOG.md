@@ -1,3 +1,7 @@
+## 1.4.2
+
+* Add OrComposeDecodeHookFunc function
+
 ## 1.4.1
 
 * Fix regression where `*time.Time` value would be set to empty and not be sent 
